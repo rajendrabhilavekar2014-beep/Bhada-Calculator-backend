@@ -1,0 +1,6 @@
+# requirements.txt file ka content
+flask
+python-dotenv
+requests
+flask-cors
+gunicorn
